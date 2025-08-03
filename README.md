@@ -68,7 +68,7 @@ SpendingLens/
 ```
 ## Privacy & Security
 
-SpendingLens processes your data **entirely offline**.  
+SpendingLens processes data **entirely offline**.  
 No third-party services, no data collection — **100% local** analysis.
 
 ---
